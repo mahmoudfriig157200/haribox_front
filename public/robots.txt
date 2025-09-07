@@ -1,0 +1,5 @@
+# robots.txt for xo45ox.site
+User-agent: *
+Allow: /
+
+Sitemap: https://xo45ox.site/sitemap.xml

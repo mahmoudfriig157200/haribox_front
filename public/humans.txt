@@ -1,0 +1,7 @@
+/* TEAM */
+Developer: xo45ox Team
+Site: https://xo45ox.site
+Twitter: https://twitter.com/xo45ox
+
+/* THANKS */
+Built with Next.js, Tailwind CSS.
